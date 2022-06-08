@@ -1,0 +1,14 @@
+# OSX
+.DS_Store
+
+# Logs
+logs
+*.log
+
+# VIM
+.*.swp
+*.vim
+
+# Dependency directory
+node_modules
+.env*
